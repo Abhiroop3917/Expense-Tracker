@@ -43,6 +43,4 @@ Thumbs.db
 *.csv
 *.xlsx
 
-# Ignore all files in the root directory that are not specifically listed
-/*
-!.gitignore
+
